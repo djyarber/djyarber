@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djyarber
-- 👀 I’m interested in QA automation and full-stack web apps
+- 👀 I’m interested in QA automation, CI/CD, full-stack web apps, and Ruby
 - 🌱 I’m currently learning JavaScript/TypeScript, CodeceptJS, Flutter, and Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
