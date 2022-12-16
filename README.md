@@ -1,8 +1,8 @@
-@djyarber
+me: @djyarber
 
-Skills: QA Automation, CI/CD, JavaScript/TypeScript Ruby
+skills: QA Automation, CI/CD, JavaScript/TypeScript Ruby
 
-Thinks learning: React, PHP
+learning: React, PHP
 
 Some Badges:
 
