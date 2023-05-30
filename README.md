@@ -1,7 +1,18 @@
-Skills: QA Automation, CI/CD, JavaScript/TypeScript Ruby
+# David (DJ) A Yarber Jr
 
-Learning: React, PHP
+## Focuses
+- Feedback Speed
+- Test Automation & CI/CD
 
-Badges:
+## Languages
+- JavaScript (moderate)
+- TypeScript (moderate)
+- Ruby (moderate)
+
+## Learning
+- React + Vite
+- PHP
+
+## Badges
 
 <a href="https://www.learnenough.com/certificates/e5a1feef"><img src="https://www.learnenough.com/certificates/e5a1feef/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
