@@ -1,18 +1,21 @@
 # David (DJ) A Yarber Jr
 
-## Focuses
+**Focuses**
+
 - Feedback Speed
 - Test Automation & CI/CD
 
-## Languages
+**Languages**
+
 - JavaScript (moderate)
 - TypeScript (moderate)
 - Ruby (moderate)
 
-## Learning
+**Learning**
+
 - React + Vite
 - PHP
 
-## Badges
+**Badges**
 
 <a href="https://www.learnenough.com/certificates/e5a1feef"><img src="https://www.learnenough.com/certificates/e5a1feef/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
